@@ -1,4 +1,7 @@
-nbproject
-npm-debug.log
-node_modules
-.sass-cache
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
